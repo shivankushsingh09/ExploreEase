@@ -40,8 +40,9 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
 
-```bash
+```
 git clone https://github.com/your-username/ExploreEase.git
+```
 
 2. Navigate to the project directory:
 
@@ -101,4 +102,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 Thanks to all the contributors who have helped in building and improving ExploreEase.
 Special thanks to open-source projects and libraries that made this project possible.
+
+```
+
 ```
