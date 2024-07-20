@@ -46,7 +46,9 @@ git clone https://github.com/your-username/ExploreEase.git
 
 2. Navigate to the project directory:
 
+```
 cd ExploreEase
+```
 
 3. Set up the database:
 
@@ -82,15 +84,21 @@ We welcome contributions to enhance the functionality and features of ExploreEas
 
 2. Create a new branch:
 
+```
 git checkout -b feature/YourFeature
+```
 
 3. Commit your changes:
 
+```
 git commit -m 'Add some feature'
+```
 
 4. Push to the branch:
 
+```
 git push origin feature/YourFeature
+```
 
 5. Open a pull request.
 
