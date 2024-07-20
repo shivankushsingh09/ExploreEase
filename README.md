@@ -104,13 +104,9 @@ git push origin feature/YourFeature
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the MIT License. See the [License](#LICENSE) file for more details.
 
 ## Acknowledgements
 
-Thanks to all the contributors who have helped in building and improving ExploreEase.
-Special thanks to open-source projects and libraries that made this project possible.
-
-```
-
-```
+- Thanks to all the contributors who have helped in building and improving ExploreEase.
+- Special thanks to open-source projects and libraries that made this project possible.
