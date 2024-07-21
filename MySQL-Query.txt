@@ -1,0 +1,3 @@
+MySQL Query:
+
+INSERT INTO `user` (`s.no`, `name`, `age`, `gender`, `email`, `phone`, `other`, `dt`) VALUES ('0', 'myname', '0', 'mygender', 'myemail', '0000000000', 'other info', CURRENT_TIMESTAMP);
