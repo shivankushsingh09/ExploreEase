@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 80%;
+  background-color: rgb(198, 152, 241);
+  padding: 34px;
+  margin: auto;
+}
+
+.container h3,
+p {
+  text-align: center;
+}
